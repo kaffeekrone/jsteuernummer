@@ -37,6 +37,7 @@ Snapshots (Repository http://oss.sonatype.org/content/repositories/snapshots)
 ```java
         
         Steuernummer.of("151/815/08156", Region.TH);
+        // or if you don't know the region/state
         Steuernummer.of("02/815/08156").getRegion();
 
 ```
