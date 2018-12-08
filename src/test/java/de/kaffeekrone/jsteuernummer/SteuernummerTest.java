@@ -44,8 +44,4 @@ public class SteuernummerTest {
                 .hasMessage("No region could be determined for steuernummer 02133/8150/819");
     }
 
-    @Test
-    public void blub() {
-        System.out.println(Steuernummer.of("2893081508152").getRegion());
-    }
 }
