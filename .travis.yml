@@ -1,6 +1,6 @@
 language: java
 
-script: "mvn verify"
+script: "mvn test"
 
 branches:
   except:
