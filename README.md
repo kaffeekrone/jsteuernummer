@@ -1,5 +1,7 @@
 # JSteuernummer
 
+[![Build Status](https://travis-ci.org/kaffeekrone/jsteuernummer.svg?branch=master)](https://travis-ci.org/kaffeekrone/jsteuernummer)
+
 Validate german tax numbers and convert them to country wide schema 
 
 See also https://de.wikipedia.org/wiki/Steuernummer#Aufbau_der_Steuernummer
