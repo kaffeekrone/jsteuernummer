@@ -24,6 +24,14 @@ mvn clean install
 
 ### Maven
 
+```xml
+<dependency>
+    <groupId>de.kaffeekrone</groupId>
+    <artifactId>jsteuernummer</artifactId>
+    <version>1.0</version>
+</dependency>
+```
+
 Snapshots (Repository http://oss.sonatype.org/content/repositories/snapshots)
 
 ```xml
